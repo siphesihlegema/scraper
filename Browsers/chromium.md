@@ -15,3 +15,4 @@ playwright install --with-deps --only-shell`
 While Playwright can download and use the recent Chromium build, it can operate against the branded Google Chrome and Microsoft Edge browsers available on the machine (note that Playwright doesn't install them by default). In particular, the current Playwright version will support Stable and Beta channels of these browsers.
 
 Available channels are `chrome, msedge, chrome-beta, msedge-beta, chrome-dev, msedge-dev, chrome-canary, msedge-canary`.
+![ Warnings ](/home/gema/Desktop/Projects/scraper/Assets/Screenshot from 2026-01-15 00-15-54.png)
